@@ -13,3 +13,15 @@ const four = () => {
 const five = () => {
     console.log("five");
 }
+const six = () => {
+    console.log("six");
+}
+const seven = () => {
+    console.log("seven");
+}
+const eight = () => {
+    console.log("eight");
+}
+const nine = () => {
+    console.log("nine");
+}
